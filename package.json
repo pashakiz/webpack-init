@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rolling-scopes-school/pashakiz-JSFE2021Q3.git"
+    "url": "git+https://github.com/pashakiz/webpack-init.git"
   },
   "keywords": [],
   "author": "Pavel Kizernis",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rolling-scopes-school/pashakiz-JSFE2021Q3/issues"
+    "url": "https://github.com/pashakiz/webpack-init/issues"
   },
-  "homepage": "https://github.com/rolling-scopes-school/pashakiz-JSFE2021Q3#readme",
+  "homepage": "https://github.com/pashakiz/webpack-init#readme",
   "devDependencies": {
     "@babel/core": "^7.14.6",
     "@babel/plugin-proposal-class-properties": "^7.14.5",
